@@ -1,0 +1,9 @@
+ul.circle{
+    list-style-type: circle;
+}
+ol.a{
+    list-style-type: lower-alpha;
+}
+ol.I{
+    list-style-type: upper-roman;
+}
